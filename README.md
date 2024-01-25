@@ -3,7 +3,7 @@ This repo is an implementation of the `Acronym Disambiguation` task. We use the 
 
 ## Workflow
 
-![Alt text](image.png)
+![Alt text](flow.png)
 
 + First, the abbreviations of each sentence are matched with possible expansions and marked with True/False tags.
 
